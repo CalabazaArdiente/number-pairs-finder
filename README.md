@@ -22,7 +22,7 @@ Python 3.x
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/your-username/number-pairs-finder.git
+    git clone https://github.com/Isveth/number-pairs-finder.git
 
 2. Navigate to the project directory:
     cd number-pairs-finder
