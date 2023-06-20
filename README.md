@@ -2,7 +2,7 @@
 
 This program finds pairs of integers from a given list that sum to a target value. The algorithm is implemented to be more efficient than O(n^2) and returns the correct results for all possible inputs.
 
-## Usage
+## Description
 
 The program is executed from the command line and takes two arguments: a comma-separated list of integers and the target sum.
 
