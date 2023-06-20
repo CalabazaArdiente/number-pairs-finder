@@ -7,13 +7,14 @@ This program finds pairs of integers from a given list that sum to a target valu
 The program is executed from the command line and takes two arguments: a comma-separated list of integers and the target sum.
 
 ```shell
-python app.py 1,9,5,0,20,-4,12,16,7 12 ´´´
-
+python app.py 1,9,5,0,20,-4,12,16,7 12
+```
 The output will display the pairs of numbers that sum up to the target value:
+```shell
 + 12, 0
 + 5, 7
 + 16, -4
-
+```
 ## Requirements
 
 Python 3.x
