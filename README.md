@@ -14,10 +14,11 @@ The output will display the pairs of numbers that sum up to the target value:
 + 5, 7
 + 16, -4
 
-## Requirements
+##Requirements
+
 Python 3.x
 
-## Installation
+##Installation
 
 1. Clone the repository:
     git clone https://github.com/your-username/number-pairs-finder.git
@@ -25,7 +26,7 @@ Python 3.x
 2. Navigate to the project directory:
     cd number-pairs-finder
 
-## Usage
+##Usage
 
 1. Run the program with the desired input:
     python app.py <list_of_numbers> <target_sum>
@@ -35,5 +36,5 @@ Python 3.x
 3. View the output, which will display the pairs of numbers that sum up to the target value.
 
 
-## Contributing
+##Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
