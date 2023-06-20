@@ -7,18 +7,18 @@ This program finds pairs of integers from a given list that sum to a target valu
 The program is executed from the command line and takes two arguments: a comma-separated list of integers and the target sum.
 
 ```shell
-python app.py 1,9,5,0,20,-4,12,16,7 12
+python app.py 1,9,5,0,20,-4,12,16,7 12 ´´´
 
 The output will display the pairs of numbers that sum up to the target value:
 + 12, 0
 + 5, 7
 + 16, -4
 
-##Requirements
+## Requirements
 
 Python 3.x
 
-##Installation
+## Installation
 
 1. Clone the repository:
     git clone https://github.com/your-username/number-pairs-finder.git
@@ -26,7 +26,7 @@ Python 3.x
 2. Navigate to the project directory:
     cd number-pairs-finder
 
-##Usage
+## Usage
 
 1. Run the program with the desired input:
     python app.py <list_of_numbers> <target_sum>
@@ -36,5 +36,5 @@ Python 3.x
 3. View the output, which will display the pairs of numbers that sum up to the target value.
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
